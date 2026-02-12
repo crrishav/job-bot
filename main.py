@@ -9,7 +9,7 @@ from datetime import datetime
 
 # --- CONFIGURATION (Edit these) ---
 # Tip: Use an environment variable for the Webhook in production
-WEBHOOK_URL = "https://discord.com/api/webhooks/1466433301836468266/Bd96LEEb7xhfhWDJnoWQkzhA3FpbJ4WkuU1kRTS8w9RM0cxtzaV7NIixQ9qiwYbhHurK"
+WEBHOOK_URL = "Your webhook"
 RSS_URL = "https://www.reddit.com/r/SmallBusiness+Entrepreneur+Restaurateurs+Construction+forhire+Design_Critique+startups+webdev+BusinessDesign+ecommerce+sweatystartup/new/.rss"
 DB_FILE = "leads_memory.db"
 CHECK_INTERVAL = 90 # Seconds
